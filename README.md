@@ -56,17 +56,18 @@ print(classification_rep)
 
 ### ACCURACY:
 
-![image](https://github.com/ShakthiSundar-K/EX-6-NN/assets/128116143/e373d3df-3967-45ab-879f-1d4c8b7e60a7)
+![image](https://github.com/nithish143257/EX-6-NN/assets/113762839/34e966d6-5d73-4f64-b1c1-a6971138e66b)
 
 ### Iteration vs Loss:
 
-![9e3864d9-1efd-428e-a920-8387de9ec2d3](https://github.com/ShakthiSundar-K/EX-6-NN/assets/128116143/b4bd0360-4844-4635-8c7a-a82efdeadfde)
+![image](https://github.com/nithish143257/EX-6-NN/assets/113762839/820f3706-8dff-4a87-a34d-1dbff0713f53)
 
 
 ### Confusion Matrix:
-![image](https://github.com/ShakthiSundar-K/EX-6-NN/assets/128116143/f6a0c937-5986-4da8-ba39-6de63c2d4d65)
+![image](https://github.com/nithish143257/EX-6-NN/assets/113762839/2483ef93-e017-4526-b594-4d8c904f5e1b)
+
 ### Classification Report:
-![image](https://github.com/ShakthiSundar-K/EX-6-NN/assets/128116143/4fa4c992-8c7a-4fc4-bcf4-7886ae6d065d)
+![image](https://github.com/nithish143257/EX-6-NN/assets/113762839/ec5b601a-0cce-412c-9c18-2a7bfef5849a)
 
 <H3>Results:</H3>
 Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
